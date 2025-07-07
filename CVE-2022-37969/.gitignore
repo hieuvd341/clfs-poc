@@ -1,0 +1,10 @@
+.vs/
+*.user
+*.suo
+
+poc/
+*.bak
+*.tmp
+*.cache
+
+craft_blf/
