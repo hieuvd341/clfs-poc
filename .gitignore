@@ -2,7 +2,6 @@
 *.user
 *.suo
 
-poc/
 *.bak
 *.tmp
 *.cache
