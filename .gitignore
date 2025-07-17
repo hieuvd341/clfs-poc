@@ -1,9 +1,12 @@
 .vs/
 *.user
 *.suo
-
+*.tlog
 *.bak
 *.tmp
 *.cache
-
+*.obj
+*.log
+*.vcxproj
+*.vcxproj.filters
 craft_blf/
